@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Braktom
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on any projects that involves data analysis
+- 👋 Hi, I’m Tomori Barakat Omotayo
+- 👀 I’m interested in Data science, analysis and visualization
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on any projects that involves data science, analysis and visualization
 - 📫 How to reach me tomoribarakatomotayo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love challenges
